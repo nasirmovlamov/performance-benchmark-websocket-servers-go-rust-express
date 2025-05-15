@@ -1,0 +1,9 @@
+C:\Users\samid.sixaliyev\Desktop\FE-PROJECTS\performance-benchmark-websocket-servers-go-rust-express\rust-ws-server\target\release\deps\libthiserror-56a4fca2e621c170.rmeta: C:\Users\samid.sixaliyev\.cargo\registry\src\index.crates.io-1949cf8c6b5b557f\thiserror-1.0.69\src\lib.rs C:\Users\samid.sixaliyev\.cargo\registry\src\index.crates.io-1949cf8c6b5b557f\thiserror-1.0.69\src\aserror.rs C:\Users\samid.sixaliyev\.cargo\registry\src\index.crates.io-1949cf8c6b5b557f\thiserror-1.0.69\src\display.rs
+
+C:\Users\samid.sixaliyev\Desktop\FE-PROJECTS\performance-benchmark-websocket-servers-go-rust-express\rust-ws-server\target\release\deps\libthiserror-56a4fca2e621c170.rlib: C:\Users\samid.sixaliyev\.cargo\registry\src\index.crates.io-1949cf8c6b5b557f\thiserror-1.0.69\src\lib.rs C:\Users\samid.sixaliyev\.cargo\registry\src\index.crates.io-1949cf8c6b5b557f\thiserror-1.0.69\src\aserror.rs C:\Users\samid.sixaliyev\.cargo\registry\src\index.crates.io-1949cf8c6b5b557f\thiserror-1.0.69\src\display.rs
+
+C:\Users\samid.sixaliyev\Desktop\FE-PROJECTS\performance-benchmark-websocket-servers-go-rust-express\rust-ws-server\target\release\deps\thiserror-56a4fca2e621c170.d: C:\Users\samid.sixaliyev\.cargo\registry\src\index.crates.io-1949cf8c6b5b557f\thiserror-1.0.69\src\lib.rs C:\Users\samid.sixaliyev\.cargo\registry\src\index.crates.io-1949cf8c6b5b557f\thiserror-1.0.69\src\aserror.rs C:\Users\samid.sixaliyev\.cargo\registry\src\index.crates.io-1949cf8c6b5b557f\thiserror-1.0.69\src\display.rs
+
+C:\Users\samid.sixaliyev\.cargo\registry\src\index.crates.io-1949cf8c6b5b557f\thiserror-1.0.69\src\lib.rs:
+C:\Users\samid.sixaliyev\.cargo\registry\src\index.crates.io-1949cf8c6b5b557f\thiserror-1.0.69\src\aserror.rs:
+C:\Users\samid.sixaliyev\.cargo\registry\src\index.crates.io-1949cf8c6b5b557f\thiserror-1.0.69\src\display.rs:

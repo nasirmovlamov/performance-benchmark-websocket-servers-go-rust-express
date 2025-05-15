@@ -1,0 +1,10 @@
+C:\Users\samid.sixaliyev\Desktop\FE-PROJECTS\performance-benchmark-websocket-servers-go-rust-express\rust-ws-server\target\release\deps\libidna-02e04c13290b032e.rmeta: C:\Users\samid.sixaliyev\.cargo\registry\src\index.crates.io-1949cf8c6b5b557f\idna-1.0.3\src\lib.rs C:\Users\samid.sixaliyev\.cargo\registry\src\index.crates.io-1949cf8c6b5b557f\idna-1.0.3\src\deprecated.rs C:\Users\samid.sixaliyev\.cargo\registry\src\index.crates.io-1949cf8c6b5b557f\idna-1.0.3\src\punycode.rs C:\Users\samid.sixaliyev\.cargo\registry\src\index.crates.io-1949cf8c6b5b557f\idna-1.0.3\src\uts46.rs
+
+C:\Users\samid.sixaliyev\Desktop\FE-PROJECTS\performance-benchmark-websocket-servers-go-rust-express\rust-ws-server\target\release\deps\libidna-02e04c13290b032e.rlib: C:\Users\samid.sixaliyev\.cargo\registry\src\index.crates.io-1949cf8c6b5b557f\idna-1.0.3\src\lib.rs C:\Users\samid.sixaliyev\.cargo\registry\src\index.crates.io-1949cf8c6b5b557f\idna-1.0.3\src\deprecated.rs C:\Users\samid.sixaliyev\.cargo\registry\src\index.crates.io-1949cf8c6b5b557f\idna-1.0.3\src\punycode.rs C:\Users\samid.sixaliyev\.cargo\registry\src\index.crates.io-1949cf8c6b5b557f\idna-1.0.3\src\uts46.rs
+
+C:\Users\samid.sixaliyev\Desktop\FE-PROJECTS\performance-benchmark-websocket-servers-go-rust-express\rust-ws-server\target\release\deps\idna-02e04c13290b032e.d: C:\Users\samid.sixaliyev\.cargo\registry\src\index.crates.io-1949cf8c6b5b557f\idna-1.0.3\src\lib.rs C:\Users\samid.sixaliyev\.cargo\registry\src\index.crates.io-1949cf8c6b5b557f\idna-1.0.3\src\deprecated.rs C:\Users\samid.sixaliyev\.cargo\registry\src\index.crates.io-1949cf8c6b5b557f\idna-1.0.3\src\punycode.rs C:\Users\samid.sixaliyev\.cargo\registry\src\index.crates.io-1949cf8c6b5b557f\idna-1.0.3\src\uts46.rs
+
+C:\Users\samid.sixaliyev\.cargo\registry\src\index.crates.io-1949cf8c6b5b557f\idna-1.0.3\src\lib.rs:
+C:\Users\samid.sixaliyev\.cargo\registry\src\index.crates.io-1949cf8c6b5b557f\idna-1.0.3\src\deprecated.rs:
+C:\Users\samid.sixaliyev\.cargo\registry\src\index.crates.io-1949cf8c6b5b557f\idna-1.0.3\src\punycode.rs:
+C:\Users\samid.sixaliyev\.cargo\registry\src\index.crates.io-1949cf8c6b5b557f\idna-1.0.3\src\uts46.rs:
