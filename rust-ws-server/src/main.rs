@@ -3,7 +3,7 @@ use tokio_tungstenite::accept_async;
 use futures_util::{StreamExt, SinkExt};
 use std::net::SocketAddr;
 
-#[tokio::main(flavor = "multi_thread", worker_threads = 12)]
+#[tokio::main(flavor = "multi_thread", worker_threads = 20)]
 async fn main() {
     let addr = "127.0.0.1:8080";
     let listener = TcpListener::bind(&addr).await.expect("Failed to bind");
